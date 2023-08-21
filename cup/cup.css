@@ -151,3 +151,9 @@ body
         transform: translateY(-300px) scaleX(10);
     }
 }
+
+.title {
+    width: 537px;
+    flex-shrink: 0;
+    height: 201px;
+}
